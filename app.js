@@ -26,4 +26,4 @@ document.querySelector("#agents").addEventListener("change",function () {
     player.fetchAgent(this.value);
 });
 
-player.fetchAgent("5f8d3a7f-467b-97f3-062c-13acf203c006")
+player.fetchAgent("add6443a-41bd-e414-f6ad-e58d267f4e95")

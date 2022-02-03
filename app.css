@@ -3,8 +3,7 @@ body{
 }
 
 .navbar,.navbar>.search {
-    background-color: black;
-    color: white;
+    background-color: rgb(245, 118, 118);
     display: flex;
     justify-content: space-between;
     padding-left: 0.5rem;
