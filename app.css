@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+}
+
+.navbar,.navbar>.search {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.search{
+    padding: 5px;
+}
+
+.mainbody{
+    background: rgb(127, 171, 221);
+    background: linear-gradient(180deg, rgb(102, 162, 231) 0%, rgb(92, 72, 182) 100%);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    min-height: 100vh;
+}
+
+.agentRole{
+    display: flex;
+    justify-content: space-between;
+    font-size: 2rem;
+}
+
+.cover{
+    text-align: center;
+}
+
+.description{
+    font-size: 1.5rem;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    padding: 0.05rem;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
